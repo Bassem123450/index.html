@@ -1,0 +1,79 @@
+*
+{
+    background-color: black;
+}
+.one
+{
+    padding: 5px 59px;
+position: relative;
+width: 97%;
+margin-top: -42px;
+}
+.two
+{
+    font-family: 'IM Fell French Canon SC', serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: -28px;
+}
+.three a {
+    font-family: 'IM Fell French Canon SC', serif;
+    text-align: center;
+    color: rgb(237, 250, 166);
+    font-size: 20px;
+    margin-top: -20px;
+}
+.three {
+    font-family: 'IM Fell French Canon SC', serif;
+    text-align: center;
+    color: rgb(237, 250, 166);
+    font-size: 20px;
+    margin-top: -20px;
+}
+.fourth {
+    text-align: left;
+    font-family: 'IM Fell French Canon SC', serif;
+    font-size: 25px;}
+    .five {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin: 15px 0;
+    }
+    .five img {
+        flex-wrap: wrap;
+        margin: 15px 0;
+        width: 600px;
+        height: 500px;
+    }
+.tata {
+    text-align: left;
+    font-family: 'IM Fell French Canon SC', serif;
+    font-size: 23px;
+    color: rgb(253, 253, 253);
+}
+.lala
+{
+    display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin: 15px 0;
+}
+lala img {
+    flex-wrap: wrap;
+    margin: 15px 0;
+    width: 600px;
+    height: 500px;
+}
+.sorry {
+    font-family: 'IM Fell French Canon SC', serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: -28px;
+}
+.end {
+    display: flex;
+    justify-content: center;
+}

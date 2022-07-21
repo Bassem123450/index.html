@@ -1,0 +1,59 @@
+BODY 
+{
+    background-color: black;
+}
+
+.nav{
+height: 100px;
+width: 100%;
+
+}
+
+nav
+{
+    display: flex;
+    align-items: center;
+
+}
+.lin{
+margin-left: 200PX;
+      text-decoration: none;
+      color: white;
+      opacity: 0.5;
+}
+
+#lo
+{
+    margin-left: 100PX;
+}
+
+.PHOTO
+{
+    text-align: center;
+}
+H2{
+    
+    color: white;
+}
+
+
+
+button 
+{
+ height: 50px;  
+ width: 250px; 
+border-radius: 100px;
+border: 4px solid ;
+
+font-size: larger;
+font-weight: bolder;
+}
+
+.lo
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    
+}

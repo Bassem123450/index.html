@@ -1,0 +1,102 @@
+.img{
+padding: 50;
+}
+    
+.nav{
+    height: 100px;
+    width: 100%;
+    
+    }
+    
+    nav
+    {
+        display: flex;
+        align-items: center;
+    
+    }
+    .lin{
+    margin-left: 200PX;
+          text-decoration: none;
+          color: white;
+          opacity: 0.5;
+    }
+
+
+body{
+   background-image: linear-gradient(black,gray );
+   background-position: center;
+}
+.one{
+    color: white;
+    font-size: 30px;
+    margin: 100px;
+    margin-left: 180px;
+}
+.two{
+    color: white;
+    
+    margin-left: 140px;
+    margin-top: -45px;
+}
+.threeone{
+    margin: 100px;
+    margin-left: 800px;
+    margin-top: -140px;
+
+}
+
+#email{
+    background-color: black;
+    width: 350px;
+    height: 30px;
+    color: white;
+    
+}
+.threetwo{
+    margin: 100px;
+    margin-left: 730px;
+    margin-top: -60px;
+}
+#date{
+    background-color: black;
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+.threethree{
+    margin: 100px;
+    margin-left: 960px;
+    margin-top: -130px;
+}
+#country{
+    background-color: black;
+    width: 159px;
+    height: 32px;
+    color: white;
+}
+.threefour{
+    margin: 100px;
+    margin-left: 750px;
+    margin-top: -60px;
+    color: white;
+}
+#checkbox{
+    background-color: black;
+}
+.threefive{
+    background-color: black;
+}
+.threefive{
+    margin: 100px;
+    margin-left: 750px;
+    margin-top: -40px;
+    background-color: black;
+    color: white;
+}
+#signup{
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 100px;
+    height: 35px;
+}

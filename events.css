@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.nav{
+height: 100px;
+width: 100%;
+
+}
+
+nav
+{
+    display: flex;
+    align-items: center;
+
+}
+.lin{
+margin-left: 200PX;
+      text-decoration: none;
+      color: white;
+      opacity: 0.5;
+}
+#lo
+{
+    margin-left: 100PX;
+}
+
+
+.photos
+{
+  margin: 50px;  
+}
+
+.photos2
+{
+  margin: 50px;  
+}
+
+div{
+    text-align: center;
+}
+
+
+.photos3
+{
+  margin: 50px;  
+}
+.photos4
+{
+  margin: 50px;  
+}
+.photos5
+{
+  margin: 50px;  
+}
